@@ -7,4 +7,7 @@ Empezamos a trabajar
 esta sería la version de explotacion
 ---
 
+INTERNO:
 este es mi nuevo párrafo que aún no quiero que el cliente vea
+hago más cambios en el interno
+
