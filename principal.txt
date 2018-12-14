@@ -3,12 +3,10 @@
 Aquí vamos a hacer unas pruebas con git
 Empezamos a trabajar 
 
----
-esta sería la version de explotacion
----
-
-
---- 
+---===--- 
 *Esta sería la versión de explotación*
- 
----===---
+ ---===---
+
+ este es mi nuevo párrafo que aún no quiero que el cliente vea
+hago más cambios en el interno
+hago más cambios en el interno
